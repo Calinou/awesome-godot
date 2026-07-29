@@ -268,6 +268,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [PixelPen](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
 - [PlayerConnect](https://github.com/rayzorite/PlayerConnect) - Bug/feedback reporting system for your Godot game. It uses a Discord webhook as a medium to send reports to your desired Discord channel.
 - [PowerKey](https://github.com/phosxd/PowerKey) - Easy-to-use dynamic translation of text & other variables. Also offers GDScript execution on Nodes, without needing to attach a script.
+- [Profily](https://github.com/nodlag/profily) - FPS counter, performance monitor and debugger overlay ported from Unity's Graphy. FPS with 1% lows, RAM and VRAM graphs, audio spectrum, hardware info, scene stats, and a scriptable debugger that reacts when stats cross thresholds.
 - [ProtonScatter](https://github.com/HungryProton/scatter) - Automates the positioning of assets in a scene.
 - [QR Code](https://kenyoni-software.github.io/godot-addons/addons/qr_code) - QR Code generation either with the included QRCodeRect node or use the encoding result of the QRCode class.
 - [Quest Manager](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
