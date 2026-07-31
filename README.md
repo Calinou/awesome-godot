@@ -212,6 +212,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames.
 - [Beehave](https://github.com/bitbrain/beehave) - Enables you to create robust NPC AI systems using behavior trees.
 - [CReverter (Composite Reverter)](https://codeberg.org/svetogam/creverter) - Memento-based undo/redo utility that supports composition.
+- [Crux](https://github.com/supercraft-host/crux/tree/godot-addon) - Hosted game backend as a single autoload: player accounts, cloud saves, leaderboards, economy, matchmaking and a server browser.
 - [CSConnector (Contextual Signal/Setup Connector)](https://codeberg.org/svetogam/csconnector) - Provides a clean interface to dynamically find, setup, and connect to descendant nodes through the scene tree.
 - [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
 - [Cyclops Level Builder](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts.
@@ -298,7 +299,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 - [YATI (Yet Another Tiled Importer](https://github.com/Kiamo2/YATI) - This is an addon for importing files (.tmx, .tmj) created by the [Tiled Map Editor](https://github.com/mapeditor/tiled).
 - [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
-- [Crux](https://github.com/supercraft-host/crux) - Hosted game backend with a Godot 4 SDK: player accounts, cloud saves, leaderboards, economy, matchmaking and a server browser.
 
 #### Godot 3
 
