@@ -496,6 +496,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [asdf-godot](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 - [codetranslator](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
+- [game-ci](https://github.com/game-ci) - Open-source CI/CD tooling for Godot, Unity, and Unreal Engine projects: GitHub Actions, a multi-provider build orchestrator (self-hosted, AWS, Kubernetes, and more), and a CLI. Godot builds run on top of [godot-ci](https://github.com/aBARICHELLO/godot-ci).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 - [gdvm](https://gdvm.io) ([GitHub](https://github.com/adalinesimonian/gdvm)) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86_64, and ARM64).
 - [godot-actions](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
