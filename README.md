@@ -296,6 +296,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Vest](https://github.com/foxssake/vest) - A unit testing addon for Godot.
 - [Virtual Joystick](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
 - [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+- [XBOX Godot Sample](https://github.com/microsoft/XBOX-Godot-Sample) - Microsoft's reference GDExtension addons for shipping on XBOX on PC, binding the GDK, XBOX services, PlayFab and GameInput. Usable from GDScript and C#.
 - [YATI (Yet Another Tiled Importer](https://github.com/Kiamo2/YATI) - This is an addon for importing files (.tmx, .tmj) created by the [Tiled Map Editor](https://github.com/mapeditor/tiled).
 - [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
 
