@@ -292,6 +292,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [TerraBrush](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 - [Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable 3D terrain system.
 - [ThemeGen](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
+- [Tilesmith](https://github.com/DJsluxx/godot-tilesmith) - Batch-build a TileSet from a folder of images: skips blank cells and bakes convex collision shapes.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 - [Vest](https://github.com/foxssake/vest) - A unit testing addon for Godot.
 - [Virtual Joystick](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
