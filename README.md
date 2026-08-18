@@ -16,15 +16,18 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Projects](#projects)
 - [Templates](#templates)
 - [Demos](#demos)
+- [Free and open-source assets](#free-and-open-source-assets)
 - [Tutorials](#tutorials)
 - [Plugins and scripts](#plugins-and-scripts)
 - [Modules](#modules)
+- [AI and machine learning](#ai-and-machine-learning)
 - [GDScript/C# editor support](#gdscriptc-editor-support)
 - [Themes](#themes)
   - [Engine themes](#engine-themes)
   - [Syntax themes](#syntax-themes)
 - [Unofficial Godot builds](#unofficial-godot-builds)
 - [Bash scripts](#bash-scripts)
+- [Blender and DCC tools](#blender-and-dcc-tools)
 - [Websites](#websites)
 - [Other](#other)
 
@@ -191,6 +194,16 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 
+## Free and open-source assets
+
+*Free and CC0-licensed art, audio, and 3D assets for prototyping and shipping.*
+
+- [ambientCG](https://ambientcg.com) - Free CC0 PBR materials, textures, HDRIs, and models.
+- [Kenney](https://kenney.nl) - Tens of thousands of CC0 2D and 3D assets, UI packs, audio, and fonts.
+- [OpenGameArt](https://opengameart.org) - Large archive of free game art and audio. *(Note: mixed licenses - check each asset individually.)*
+- [Poly Haven](https://polyhaven.com) - Free CC0 HDRIs, PBR textures, and 3D models.
+- [Quaternius](https://quaternius.com) - Free CC0 low-poly 3D characters, props, animals, and modular kits.
+
 ## Tutorials
 
 > **Note**
@@ -215,6 +228,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [CSConnector (Contextual Signal/Setup Connector)](https://codeberg.org/svetogam/csconnector) - Provides a clean interface to dynamically find, setup, and connect to descendant nodes through the scene tree.
 - [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
 - [Cyclops Level Builder](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts.
+- [Debug Draw 3D](https://github.com/DmitriySalnikov/godot_debug_draw_3d) - Draw 3D debug graphics and 2D overlays to visualize AI, physics, pathing, and more.
 - [Dialogic](https://github.com/dialogic-godot/dialogic) - Create dialogs, characters and scenes to display conversations.
 - [Dialogue Engine](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
@@ -259,6 +273,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [Maaack's Menus Template](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 - [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
+- [Nakama Godot](https://github.com/heroiclabs/nakama-godot) - Godot client for the Nakama open-source game backend: accounts, chat, matchmaker, realtime multiplayer, and more.
 - [Netfox](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
 - [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 - [Nodot](https://github.com/NodotProject/nodot) - Node composition library for Godot 4.
@@ -387,6 +402,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-jolt](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine](https://github.com/jrouwe/JoltPhysics).
 - [godot-luaAPI](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua. *(Godot 3 and 4)*
 - [godot-rapier-2d](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier](https://github.com/dimforge/rapier) physics server for Godot.
+- [godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics) - A 2D and 3D Rapier physics drop-in replacement with fluids, determinism, and state serialization.
 - [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds.
 - [Keyring](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
@@ -420,6 +436,16 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 - [WaterSplash 2D node](https://github.com/laverneth/water)
+
+## AI and machine learning
+
+*Tools for AI-assisted and agentic development, local large language models, and training reinforcement-learning agents.*
+
+- [Breakpoint MCP](https://github.com/jlivingston-Cipher/godot-breakpoint-mcp) - Exposes the live Godot editor and running game to MCP clients (Claude, Cursor, Copilot): GDScript symbols and completions via the language server, plus breakpoint debugging over the Debug Adapter Protocol.
+- [Godot LLM](https://github.com/Adriankhl/godot-llm) - Run local large language models in Godot for NPCs, game mechanics, and design assistance.
+- [Godot MCP](https://github.com/Coding-Solo/godot-mcp) - Model Context Protocol server (`npx @coding-solo/godot-mcp`) that lets AI agents inspect and drive the editor: create nodes, edit scenes, manage scripts, capture screenshots, and export resources.
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - C# editor addon (Godot counterpart to Unity-MCP) that exposes editor operations as AI tools over MCP.
+- [Godot RL Agents](https://github.com/edbeeching/godot_rl_agents) - Framework to train reinforcement-learning agents against your Godot game as an environment (`pip install godot-rl`).
 
 ## GDScript/C# editor support
 
@@ -483,6 +509,13 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
+
+## Blender and DCC tools
+
+*Companion tools - primarily Blender add-ons - that streamline the asset pipeline into Godot. For glTF workflows, Blender's built-in glTF 2.0 exporter is the recommended default path.*
+
+- [Blender MCP](https://github.com/ahujasid/blender-mcp) - Control Blender from any MCP client (agentic modeling); pairs naturally with the Godot MCP servers above for a full agent-to-asset-to-engine loop.
+- [Godot Blender Exporter](https://github.com/godotengine/godot-blender-exporter) - Official Blender addon to export scenes (meshes, lights, cameras, collisions, empties) directly to a Godot scene.
 
 ## Websites
 
