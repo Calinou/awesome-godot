@@ -168,6 +168,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4
 
+- [GameFrameX](https://github.com/GameFrameX/GameFrameX) - Cross-engine game framework: Unity or Godot C# clients on an actor-model .NET server, with AI-agent instruction docs. Godot client packages migrating from the Unity version (18 of 21 ported).
 - [GATO: Godot Accessibility Toolkit](https://github.com/Nokorpo/gato-godot-accessibility-toolkit) - A collection of demos and addons to promote accessibility in Godot games.
 - [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
 - [Godot experiments](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
