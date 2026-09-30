@@ -38,10 +38,14 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - A simple free/libre Futsal team-management game.
 - [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
+- [Derin Kazı](https://github.com/Furkiozknn/derin-kazi) - Side-view digging and upgrade loop: mine ore, watch the fuel, sell, upgrade the rig, reach the core at 250 m.
+- [Kanca](https://github.com/Furkiozknn/kanca) - Speed-focused 2D swinging platformer: hook the ceiling, swing and release at the right moment to carry momentum.
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
+- [Tek Tuş Koşu](https://github.com/Furkiozknn/tek-tus-kosu) - One-button endless rooftop runner with a rhythm mode that lays every obstacle on the music beat grid.
 - [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 - [Worlds Upon The Wind](https://github.com/max99x/wutw-public) - A commercial roguelite deckbuilder released as public domain.
+- [Yerçekimi Çevir](https://github.com/Furkiozknn/yercekimi-cevir) - Precision platformer with no jump button: one key flips gravity and you fall onto the ceiling.
 
 #### Godot 3
 
