@@ -40,6 +40,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
+- [Source of Mana](https://github.com/sourceofmana/sourceofmana) - 2D MMORPG inspired by SNES-era RPG aesthetics and mechanics.
 - [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 - [Worlds Upon The Wind](https://github.com/max99x/wutw-public) - A commercial roguelite deckbuilder released as public domain.
 
