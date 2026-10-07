@@ -502,6 +502,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 - [gdvm](https://gdvm.io) ([GitHub](https://github.com/adalinesimonian/gdvm)) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86_64, and ARM64).
 - [godot-actions](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
+- [Godot Android Preflight](https://github.com/CraigFineTuned/godot-android-preflight) - Local CLI for inspecting Android APK/AAB release metadata and producing PASS/FAIL/UNKNOWN reports (Windows-validated).
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter.
 - [godot-launcher](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
