@@ -245,6 +245,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project.
 - [Godot Torrent](https://github.com/NodotProject/godot-torrent) - A comprehensive BitTorrent GDExtension for Godot 4, providing full protocol functionality with native C++ performance.
 - [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+- [GodotDialogue Lite](https://github.com/mustafa-sec/godot-dialogue-lite) - JSON dialogue lines and ordered, unconditional choices for Godot 4.
+- [GodotSaveKit Lite](https://github.com/mustafa-sec/godot-save-kit-lite) - Dictionary-to-JSON save helper for Godot 4.
 - [GodotSx](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
 - [GodotVMF](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine (Valve map format from Hammer editor).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
