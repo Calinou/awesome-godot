@@ -233,6 +233,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Gedis](https://github.com/NodotProject/Gedis) - In-memory, Redis-like key-value store for Godot.
 - [GedisQueue](https://github.com/NodotProject/GedisQueue) - A comprehensive job queue system for Godot, backed by Gedis.
 - [Goblend](https://github.com/Togira123/Goblend-Export-Addon) - Export Blender scenes to Godot with one click, including materials, collisions and nested scenes.
+- [Godot CSV Export Check](https://github.com/karden335/godot-csv-export-check) - Editor plugin and CI checker that detects raw CSV data which may be missing or changed in exported builds.
 - [Godot Doctor](https://github.com/codevogel/godot_doctor) - A powerful validation plugin for Godot that catches errors in scenes and resources before they reach runtime. Also supports type validation for `PackedScene`s.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
@@ -240,6 +241,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-playfab](https://github.com/Structed/godot-playfab) - Use PlayFab as your game's cross-platform backend, with easy analytics.
 - [Godot Polygon 2D Fracture](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
 - [Godot Radial Menu](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+- [Godot Save Shape Check](https://github.com/karden335/godot-save-shape-check) - Editor plugin and CI checker that compares JSON save fixtures with current save shapes and flags incompatible changes.
 - [Godot Shader Warmup](https://github.com/Koisuji02/GodotShaderWarmup) - Extension for pre-warming shaders at startup to prevent runtime stuttering caused by shader compilation (works well also integrated with [engine shader baker](https://docs.godotengine.org/en/stable/tutorials/performance/pipeline_compilations.html#shader-baker); see `report.pdf` in the repository to view results).
 - [Godot Spin Button](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project.
