@@ -146,10 +146,14 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [COGITO](https://codeberg.org/Phazorknight/Cogito) - First Person Immersive Sim Template Project, providing a framework for creating interactable objects, various items to use and mechanics to influence the player and game environment.
 - [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+- [Factory Core Lite](https://github.com/openclawaimac/godot-factory-core-lite) - Factory/automation game template with a deterministic, headless-testable simulation of two-lane conveyor belts, machines with recipes, splitters and mergers, with data-driven items and recipes.
 - [Godot C# Template](https://github.com/CSharpGodotTools/Template) - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
 - [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 - [Godot 4 Custom Gravity](https://github.com/Ivorforce/Godot4-Custom-Gravity) - Template for a 3D project with planetary gravity (Super Mario Galaxy-like). Supports any planet shapes using signed distance fields. Includes a character controller and various sample setups.
+- [Godot RTS Advanced Lite](https://github.com/openclawaimac/godot-rts-advanced-lite) - 3D real-time strategy starter with formations, pathfinding, fog of war, building, harvesting and an AI opponent.
+- [Godot Survival Core Lite](https://github.com/openclawaimac/godot-survival-core-lite) - Survival crafting starter with hunger/thirst needs, a day/night clock, slot inventory, data-driven crafting and gatherable resource nodes, all pure-logic and headless-tested.
+- [Godot Tower Defense Core Lite](https://github.com/openclawaimac/godot-tower-defense-core-lite) - Tower defense template with data-driven towers, enemies and waves, four targeting modes, splash and slow, flying and armored enemies, upgrades and a playable demo.
 - [Godot XR Template](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 - [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [MechanicalFlower Godot Template](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
