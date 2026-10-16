@@ -222,6 +222,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Dialogue Engine](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
 - [DotnetQuestSystem](https://github.com/TRUINGLol/DotnetQuestSystem) - A simple implementation of a quest system on .NET with an interface for Godot.
+- [EO Space Shaders](https://github.com/arrhen/eo-space-shader-teaser) - Three MIT-licensed procedural space shaders for Godot 4: starfield, planet surface and atmosphere.
 - [Event Audio](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
 - [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
