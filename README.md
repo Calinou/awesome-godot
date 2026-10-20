@@ -42,6 +42,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Kanca](https://github.com/Furkiozknn/kanca) - Speed-focused 2D swinging platformer: hook the ceiling, swing and release at the right moment to carry momentum.
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
+- [Source of Mana](https://github.com/sourceofmana/sourceofmana) - 2D MMORPG inspired by SNES-era RPG aesthetics and mechanics.
 - [Tek Tuş Koşu](https://github.com/Furkiozknn/tek-tus-kosu) - One-button endless rooftop runner with a rhythm mode that lays every obstacle on the music beat grid.
 - [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 - [Worlds Upon The Wind](https://github.com/max99x/wutw-public) - A commercial roguelite deckbuilder released as public domain.
@@ -131,6 +132,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GodSVG](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
 - [Lorien](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 - [Material Maker](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+- [MSDF Atlas Studio](https://github.com/sachinthankachan/msdf-atlas-studio) - High-performance desktop studio for generating multi-channel signed distance field (MSDF) font texture atlases with live shader preview.
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
 - [ProtonGraph](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
