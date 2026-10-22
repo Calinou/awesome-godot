@@ -85,6 +85,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 4
 
 - [Hurry Curry!](https://hurrycurry.org) - Free & open-source cooperative multiplayer cooking game.
+- [IONFALL](https://github.com/aswinkumarks/IONFALL) - Free & open-source sci-fi arena FPS for Android, desktop and the web, with bots, LAN and online multiplayer and cross-play.
 - [LibreAim](https://codeberg.org/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 - [Reia](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
