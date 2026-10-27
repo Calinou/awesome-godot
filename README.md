@@ -232,6 +232,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GdUnit4](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
 - [Gedis](https://github.com/NodotProject/Gedis) - In-memory, Redis-like key-value store for Godot.
 - [GedisQueue](https://github.com/NodotProject/GedisQueue) - A comprehensive job queue system for Godot, backed by Gedis.
+- [Glitchless](https://github.com/glitchless-gg/glitchless/tree/main/godot/addons/glitchless) - Frame times, hitches with their likely cause, errors and where players quit, sent from players' devices to a self-hosted or hosted dashboard, with an MCP server for coding agents.
 - [Goblend](https://github.com/Togira123/Goblend-Export-Addon) - Export Blender scenes to Godot with one click, including materials, collisions and nested scenes.
 - [Godot Doctor](https://github.com/codevogel/godot_doctor) - A powerful validation plugin for Godot that catches errors in scenes and resources before they reach runtime. Also supports type validation for `PackedScene`s.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
