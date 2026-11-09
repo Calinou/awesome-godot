@@ -506,5 +506,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 - [ShipThis](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
+- [SimplePixelArt Tileset Editor](https://simplepixelart.com/tilesets/editor) ([GitHub](https://github.com/comficker/simplepixelart)) - Browser pixel art and tileset editor that builds Wang-16 and blob-47 auto-tile sets from a few hand-drawn tiles and exports a Godot 4 TileSet `.tres` with the terrain peering bits already set.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 - [zfoo](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
