@@ -213,6 +213,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [AnimSheet](https://github.com/Lighar/AnimSheet) - Automatically generate AnimationPlayer or AnimatedSprite2D nodes directly from spritesheets within the Godot editor.
 - [AntialiasedLine2D](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (all rendering methods, all platforms).
 - [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames.
+- [Assets2Godot](https://github.com/ikonnow/Assets2Godot) - Multi-provider asset workspace inside the editor — browse & download Poly Haven, ambientCG and BlendKit, plus a local index over your own asset drives.
 - [Beehave](https://github.com/bitbrain/beehave) - Enables you to create robust NPC AI systems using behavior trees.
 - [CReverter (Composite Reverter)](https://codeberg.org/svetogam/creverter) - Memento-based undo/redo utility that supports composition.
 - [CSConnector (Contextual Signal/Setup Connector)](https://codeberg.org/svetogam/csconnector) - Provides a clean interface to dynamically find, setup, and connect to descendant nodes through the scene tree.
