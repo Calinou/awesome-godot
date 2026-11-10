@@ -276,6 +276,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Quill-IDE](https://github.com/rayzorite/quill-ide) - Modified and beautified version of the default Godot Script Editor for 4.4+.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
 - [Roommate](https://github.com/hoork/roommate) - 3D level builder tool with focus on creating indoors environment and automation.
+- [Ruby Text Lite](https://github.com/imaiibuki/ruby-text-lite-godot4) - Furigana/ruby annotations for Japanese text via a `[ruby]` BBCode tag.
 - [Scene Library](https://github.com/4d49/scene-library) - A tool for organizing Godot scenes with efficiency.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
 - [Script-IDE](https://github.com/Maran23/script-ide) - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
@@ -289,6 +290,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Subtitles Importer](https://github.com/Rubonnek/subtitles-importer) - A comprehensive subtitle parser supporting 15+ subtitle formats (SRT, VTT, SSA/ASS, SBV, and more) with runtime parsing, time-based queries, and AnimationPlayer integration.
 - [System Bar Color Changer](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
 - [Talo](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
+- [Tategaki Lite](https://github.com/imaiibuki/tategaki-lite-godot4) - Vertical Japanese text (tategaki) layout.
 - [TerraBrush](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 - [Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable 3D terrain system.
 - [ThemeGen](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
