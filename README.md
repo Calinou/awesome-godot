@@ -493,6 +493,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Other stuff.*
 
+- [AI Art Engine](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio that generates 2D sprites, skeletal rigs, 3D models, PBR materials, shaders, and audio, and exports ready-to-use Godot 4 `.tscn` scenes and GDScript.
 - [asdf-godot](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 - [codetranslator](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
