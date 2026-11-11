@@ -427,6 +427,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Emacs](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 - [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 - [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
+- [Godotwright](https://github.com/laaielichter/Godotwright) - MCP server and CLI that help AI coding agents write Godot 4 code: offline API, GDScript review and linting, headless checks and tests, and Godot 3 to 4 migration.
 - [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 - [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
