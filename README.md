@@ -84,6 +84,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4
 
+- [Game of Crowns](https://github.com/off-grid-ai/game-of-crowns) - Medieval strategy game: you start as a king with no allies and win seven great houses to your side by war or alliance.
 - [Hurry Curry!](https://hurrycurry.org) - Free & open-source cooperative multiplayer cooking game.
 - [LibreAim](https://codeberg.org/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
