@@ -253,12 +253,14 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Instance Log](https://github.com/codevogel/godot_instance_log) - A plugin for Godot that provides a better logging experience when running multiple instances.
 - [Inventory Manager](https://github.com/Rubonnek/inventory-manager) - Minimalistic inventory manager for easily adding and removing items with variable stack sizes and stack count limits.
 - [Juicee](https://github.com/Kelpekk/Juicee) - game-feel effects (screen shake, hit stop, camera effects and more) with a visual graph editor, inspector UI, and one-liner API. Inspired by Unity's FEEL.
+- [Juicy Lite](https://github.com/bzy375544/godot-juicy-lite) - Pooled floating damage numbers and trauma-based camera shake, with no allocations during combat.
 - [Konado](https://github.com/godothub/konado) - A dialogue creation toolkit with templates to help you quickly build Visual Novels, Gal Games, RPGs and other story‑driven projects.
 - [License Manager](https://kenyoni-software.github.io/godot-addons/addons/licenses) - Manage license and copyright for third party graphics, software or libraries. Group them into categories, add descriptions or web links.
 - [LimboAI](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 - [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [Maaack's Menus Template](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 - [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
+- [Modular Inventory Lite](https://github.com/bzy375544/godot-inventory-lite) - JSON item registry, stack merging and a drag-and-drop grid container for 2D inventories.
 - [Netfox](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
 - [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 - [Nodot](https://github.com/NodotProject/nodot) - Node composition library for Godot 4.
@@ -276,6 +278,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Quill-IDE](https://github.com/rayzorite/quill-ide) - Modified and beautified version of the default Godot Script Editor for 4.4+.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
 - [Roommate](https://github.com/hoork/roommate) - 3D level builder tool with focus on creating indoors environment and automation.
+- [Save Vault Lite](https://github.com/bzy375544/godot-save-vault-lite) - Atomic single-slot JSON saving plus Master volume and fullscreen persistence.
 - [Scene Library](https://github.com/4d49/scene-library) - A tool for organizing Godot scenes with efficiency.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
 - [Script-IDE](https://github.com/Maran23/script-ide) - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
