@@ -38,6 +38,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - A simple free/libre Futsal team-management game.
 - [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
+- [Civic Nightmare](https://github.com/Daniele-Cangi/civic-nightmare) - Satirical top-down bureaucracy RPG (MIT). Asset licensing details: [ASSET_NOTICE.md](https://github.com/Daniele-Cangi/civic-nightmare/blob/main/ASSET_NOTICE.md)
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
 - [Source of Mana](https://github.com/sourceofmana/sourceofmana) - 2D MMORPG inspired by SNES-era RPG aesthetics and mechanics.
