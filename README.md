@@ -285,6 +285,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Simplified Flight Simulation library](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays.
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool. *(Godot 3 and 4)*
+- [SpriteStudio Player for Godot](https://github.com/cri-middleware/SSPlayerForGodot) - Plays [SpriteStudio](https://www.webtech.co.jp/eng/spritestudio/) animations as nodes; drop a `.sspj` onto the editor to import it. SpriteStudio is a 2D animation tool: an artist adds bones, mesh deformation and effects to their own illustrations.
 - [Sprouty Dialogs](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 - [Subtitles Importer](https://github.com/Rubonnek/subtitles-importer) - A comprehensive subtitle parser supporting 15+ subtitle formats (SRT, VTT, SSA/ASS, SBV, and more) with runtime parsing, time-based queries, and AnimationPlayer integration.
 - [System Bar Color Changer](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
