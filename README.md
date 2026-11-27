@@ -259,6 +259,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [Maaack's Menus Template](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 - [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
+- [Manga Screentone Toon Shader](https://github.com/johnisking/godot-manga-screentone) - Cel shading with dot, line or crosshatch screentone shadows for 3D models.
 - [Netfox](https://github.com/foxssake/netfox) - Multiplayer timing, rollback and other multiplayer features.
 - [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 - [Nodot](https://github.com/NodotProject/nodot) - Node composition library for Godot 4.
